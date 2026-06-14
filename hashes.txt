@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dos extraños en el tren
+
+This log tracks the cryptographic history and versioning for the song **Dos extraños en el tren** (dos-extranos-en-el-tren).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:40:37.107542 | `v1` | `9f5b43d04f701935d0ecd91b8b7fc08eb1255a58abefc984363bb7e9199bf686` | `e0ce08a82fe24097cf888524343d29e514bead4ad5297e41a87ba2f70ee56062` | `2026-06-14_dos-extranos-en-el-tren-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

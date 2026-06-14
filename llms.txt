@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dos-extranos-en-el-tren/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dos extraños en el tren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dos-extranos-en-el-tren/) |
+| **Get License** | [Official Music Licensing for Dos extraños en el tren](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dos-extranos-en-el-tren/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Otra copa, otro tren y tu mirada en mi piel
+> Mami, no disimules que yo sé que quieres también
+> Dime si esta noche nos perdemos por la ciudad
+> Dos extraños en el tren cruzando la madrugá'
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f5b43d04f701935d0ecd91b8b7fc08eb1255a58abefc984363bb7e9199bf686` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
